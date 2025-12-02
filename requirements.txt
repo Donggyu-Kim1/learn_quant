@@ -19,3 +19,4 @@ cdt
 networkx
 icpy
 pca
+openpyxl

@@ -62,6 +62,7 @@ statsmodels
 
 ### 1. 장별 노트북 생성
 
+- 데이터 다운로드 경로: [shokru 깃허브 페이지](https://github.com/shokru/mlfactor.github.io/tree/master/material)
 - `notebooks/ch0X_제목.ipynb` 형태로 만들기
 - 책의 수식·그림·표를 코드로 직접 재현해 보기
 
@@ -82,7 +83,7 @@ statsmodels
 
 ## 4. 진행상황 체크
 
-- [ ] 1. 표기법과 데이터
+- [x] 1. 표기법과 데이터
 - [ ] 2. 개요
 - [ ] 3. 팩터 투자와 자산 가격 결정 이상 현상
 - [ ] 4. 데이터 전처리
